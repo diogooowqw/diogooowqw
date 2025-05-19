@@ -4,6 +4,10 @@
 - 🔭Trabalho com Front-end
 - 🌱 Estudando Mysql
 
+
+
+
+
 📊 Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogooowqw&layout=compact&theme=dark)
@@ -11,6 +15,9 @@
 
 
 ![Diogo Souza GitHub status](https://github-readme-stats.vercel.app/api?username=diogooowqw&show_icons=true&theme=dark&count_private=true&hide=prs)
+
+
+
 
 
 
