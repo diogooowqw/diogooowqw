@@ -3,6 +3,7 @@
 
 - 🔭Trabalho com Front-end
 - 🌱 Estudando Mysql
+- 🏠Moro em Almenara 
 
 
 
