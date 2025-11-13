@@ -1,8 +1,7 @@
 ## Oi!!Meu nome é Diogo 👋
 
 
-- 🔭Trabalho com Front-end
-- 🌱 Estudando Mysql
+- 🔭Trabalho com Front-end e Back-end
 - 🏠Moro em Almenara 
 
 
