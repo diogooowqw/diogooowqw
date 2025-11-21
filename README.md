@@ -1,7 +1,7 @@
 ## Oi!!Meu nome é Diogo 👋
 
 
-- 🔭Trabalho com Front-end e Back-end
+Fullstak 
 - 🏠Moro em Almenara 
 
 
