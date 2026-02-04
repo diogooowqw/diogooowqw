@@ -6,7 +6,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogooowqw&layout=compact&theme=dark&langs_count=6&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogooowqw&layout=compact&theme=dark&cache_seconds=1800)
+
 ![Diogo Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=diogooowqw&show_icons=true&theme=dark&count_private=true&hide=prs)
 
 ---
