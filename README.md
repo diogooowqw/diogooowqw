@@ -7,9 +7,8 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogooowqw&layout=compact&theme=dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogooowqw&theme=github_dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diogooowqw&show_icons=true&theme=dark&count_private=true)
 ### 🛠️ Habilidades
 <div>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
