@@ -8,6 +8,7 @@
 ### 📊 GitHub Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogooowqw&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogooowqw&layout=compact)
 
 ### 🛠️ Habilidades
 <div>
