@@ -6,12 +6,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diogooowqw&layout=compact&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogooowqw&layout=compact&theme=dark)
 
-![Diogo Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=diogooowqw&show_icons=true&theme=dark&count_private=true&hide=prs)
-
----
+![Diogo Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=diogooowqw&show_icons=true&theme=dark&count_private=true)
 
 ### 🛠️ Habilidades
 <div>
