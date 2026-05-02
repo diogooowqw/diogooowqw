@@ -7,9 +7,9 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogooowqw&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogooowqw&layout=compact&theme=dark&cache_seconds=86400)
 
-![Diogo Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=diogooowqw&show_icons=true&theme=dark&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diogooowqw&show_icons=true&theme=dark&count_private=true&cache_seconds=86400)
 
 ### 🛠️ Habilidades
 <div>
