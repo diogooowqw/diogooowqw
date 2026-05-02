@@ -7,10 +7,9 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogooowqw&layout=compact&theme=dark&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogooowqw&layout=compact&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diogooowqw&show_icons=true&theme=dark&count_private=true&cache_seconds=86400)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diogooowqw&show_icons=true&theme=dark&count_private=true)
 ### 🛠️ Habilidades
 <div>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
